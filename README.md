@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yivancha
-- 👀 I’m interested in IOS development.
-- 🌱 I’m currently learning Swift.
+- 👀 I’m interested in data analysis.
+- 🌱 I’m currently learning Data Analytics.
 - 💞️ I’m looking to collaborate on it.
 - 📫 How to reach me via email.
 <!---
