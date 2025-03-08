@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yivancha
-- 👀 I’m interested in data analysis.
+- 👀 I’m interested in data analysis and I have a strong passion for it.
 - 🌱 I’m currently learning Data Analytics.
 - 💞️ I’m looking to collaborate on it.
 - 📫 How to reach me via email.
